@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Daniel Idoko
+# Daniel Idoko
 
 👨‍💻 **Software Developer | System Administrator | Cybersecurity Enthusiast**  
 🌍 Based in Abuja, Nigeria  
@@ -48,7 +48,7 @@ Visit [danielidoko.com](https://danielidoko.com) for tutorials, blogs, and mento
 
 ⭐️ **Fun Facts About Me:**  
 - 🎵 I love Afro music.  
-- ⚽ I’m a big Chelsea fan!  
+- ⚽ I’m a big Arsenal fan!  
 - 📖 I have a degree in Chemistry but followed my passion for programming.
 
 ---
