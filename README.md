@@ -2,7 +2,7 @@
 
 👨🏿‍💻 **Web Developer | System Administrator | Cybersecurity Enthusiast**   
 
-💡 I enjoy diving into new technological concepts and sharing my knowledge through blogging. I'm equally passionate about contributing to the open-source community. Since starting my tech journey as a web developer in 2019, I've expanded my focus to system administration and cybersecurity.   
+💡 I enjoy diving into new technological concepts and sharing my knowledge through blogging. I'm equally passionate about contributing to the open-source community. Started my journey as a web developer in 2019 and am now building a career in system administration and cybersecurity.
 
 ---
 
