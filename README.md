@@ -1,11 +1,11 @@
-## Hey 👋, I'm [🧪 Daniel!]()
+## Hey 👋, I'm [🧪 Daniel!](https://your-website-url.com/about)
 
 👨🏿‍💻 **Web Developer | System Administrator | Cybersecurity Enthusiast**
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)]()
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://x.com/Daniel_Idoko_go/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/daniel_idoko_go/)
-[![Website](https://img.shields.io/badge/Visit_My_Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-website-url.com)
+<!-- [![Website](https://img.shields.io/badge/Visit_My_Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-website-url.com) -->
 
 
 <!-- 
@@ -24,7 +24,7 @@ I have built several Web Projects and written numerous technical articles for my
 I'm currently focused on building a career in System Administration and Cybersecurity.
 
 
-[![](https://gitwar.herokuapp.com/badge?username=heyOnuoha&label=Gitwar%20Profile%20Score&style=for-the-badge&color=ffeb00)](https://gitwar.herokuapp.com/) <a href="https://x.com/Daniel_Idoko_go" target="blank"><img src="https://img.shields.io/twitter/follow/heyOnuoha?logo=twitter&style=for-the-badge&color=ffeb00" alt="heyOnuoha" /></a>
+#### [🌐 Visit My Website](https://your-website-url.com)
 
 ### About Me:
 
