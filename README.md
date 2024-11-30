@@ -7,31 +7,31 @@ Started as a Web Developer in 2019, and now I’m focused on building a career i
 ---
 ## 🛠️ **Technologies & Tools I Work With**
 
-### 🌐 **Languages**
+#### 🌐 **Languages**
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
 ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)
 ![Go](https://img.icons8.com/color/48/000000/go.png)
 ![Python](https://img.icons8.com/color/48/000000/python.png)
 ![Bash](https://img.icons8.com/ios/50/000000/bash.png)
 
-### ⚙️ **Frameworks & Libraries**
+#### ⚙️ **Frameworks & Libraries**
 ![React](https://img.icons8.com/ios/50/000000/react.png)
 ![Node.js](https://img.icons8.com/ios/50/000000/nodejs.png)
 ![Next.js](https://img.icons8.com/ios/50/000000/next.js.png)
 ![Express.js](https://img.icons8.com/ios/50/000000/express.png)
 
-### 🗄️ **Databases**
+#### 🗄️ **Databases**
 ![PostgreSQL](https://img.icons8.com/ios/50/000000/postgresql.png)
 ![MySQL](https://img.icons8.com/ios/50/000000/mysql.png)
 ![Redis](https://img.icons8.com/ios/50/000000/redis.png)
 ![MongoDB](https://img.icons8.com/ios/50/000000/mongodb.png)
 ![Firebase](https://img.icons8.com/ios/50/000000/firebase.png)
 
-### ☁️ **DevOps & Cloud**
+#### ☁️ **DevOps & Cloud**
 ![Docker](https://img.icons8.com/ios/50/000000/docker.png)
 ![GitHub Actions](https://img.icons8.com/ios/50/000000/github-actions.png)
 
-### 🔒 **Specialties**
+#### 🔒 **Specialties**
 - Full-stack web applications  
 - Authentication (OAuth, JWT, Firebase)  
 - Web security and APIs  
