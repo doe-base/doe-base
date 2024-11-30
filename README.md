@@ -7,15 +7,36 @@
 ---
 
 ## 🛠️ **Technologies & Tools I Work With**
-- **Languages:** JavaScript, TypeScript, Go, Python, SQL, Bash
-- **Frameworks & Libraries:** React (MUI, TypeScript), Node.js (Express), Next.js
-- **DevOps & Cloud:** Docker, Redis, PostgreSQL, Firebase
-- **Specialties:**  
-  - Full-stack web applications  
-  - Authentication (OAuth, JWT, Firebase)  
-  - Web security and APIs  
-  - Networking and caching  
 
+### 🌐 **Languages**
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
+![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat-square)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white&style=flat-square)
+
+### ⚙️ **Frameworks & Libraries**
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat-square)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat-square)
+
+### 🗄️ **Databases**
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=flat-square)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square)
+
+### ☁️ **DevOps & Cloud**
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white&style=flat-square)
+
+### 🔒 **Specialties**
+- Full-stack web applications  
+- Authentication (OAuth, JWT, Firebase)  
+- Web security and APIs  
+- Networking and caching  
 ---
 
 ## 🚀 **Projects I'm Proud Of**
