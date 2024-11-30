@@ -5,18 +5,16 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)]()
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://x.com/Daniel_Idoko_go/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/daniel_idoko_go/)
-<!-- [![Website](https://img.shields.io/badge/Visit_My_Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-website-url.com) -->
-
+<!-- [![Website](https://img.shields.io/badge/Visit_My_Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-website-url.com) --
 
 <!-- 
 <img align="right" height="420"  alt="" src="https://github.com/heyOnuoha/heyOnuoha/blob/main/images/banner2.png" />
 
 <br />
  -->
-
 <br/>
  
-### Welcome to my profile! Let's build great things together!!!! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=heyOnuoha.heyOnuoha&style=flat-square&color=ffeb00)
+### Welcome to my profile! Let's create something amazing together! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=heyOnuoha.heyOnuoha&style=flat-square&color=ffeb00)
 
 <br/>
 
