@@ -1,4 +1,4 @@
-# 🕸 Daniel Idoko
+# 🧪 Daniel Idoko
 
 👨🏿‍💻 **Web Developer | System Administrator | Cybersecurity Enthusiast**   
 
