@@ -5,7 +5,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)]()
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://x.com/Daniel_Idoko_go/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/daniel_idoko_go/)
-[![Website](https://img.shields.io/badge/:badgeContent)](http://danielidoko-r3zt.vercel.app/)
+[![Website](https://img.shields.io/badge/-Website-000000?style=flat-square&logo=google-chrome&logoColor=white)](http://danielidoko-r3zt.vercel.app/)
+
 
 <!-- 
 <img align="right" height="420"  alt="" src="https://github.com/heyOnuoha/heyOnuoha/blob/main/images/banner2.png" />
