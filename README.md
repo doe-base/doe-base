@@ -54,30 +54,28 @@ I'm currently focused on building a career in System Administration and Cybersec
 ### Languages and Tools:
 
 #### 🌐 **Languages**
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
           
-<code><img height="40" src="https://img.icons8.com/color/48/000000/javascript.png" alt="Javascript"></code>
-<code><img height="40" src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript"></code>
-<code><img height="40" src="https://img.icons8.com/color/48/000000/go.png" alt="Go"></code>
-<code><img height="40" src="https://img.icons8.com/color/48/000000/python.png" alt="Python"></code>
-<code><img height="40" src="https://img.icons8.com/ios/50/000000/bash.png" alt="Bash"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="TypeScript"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" alt="Go"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" alt="Bash"></code>
 
 #### ⚙️ **Frameworks & Libraries**
-<code><img height="40" src="https://img.icons8.com/ios/50/000000/react.png" alt="React"></code>
-<code><img height="40" src="https://img.icons8.com/ios/50/000000/nodejs.png" alt="Node.js"></code>
-<code><img height="40" src="https://img.icons8.com/ios/50/000000/next.js.png" alt="Next.js"></code>
-<code><img height="40" src="https://img.icons8.com/ios/50/000000/express.png" alt="Express.js"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Node.js"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/next/next.png" alt="Next.js"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="Express.js"></code>
 
 #### 🗄️ **Databases**
-<code><img height="40" src="https://img.icons8.com/ios/50/000000/postgresql.png" alt="PostgreSQL"></code>
-<code><img height="40" src="https://img.icons8.com/ios/50/000000/mysql.png" alt="MySQL"></code>
-<code><img height="40" src="https://img.icons8.com/ios/50/000000/redis.png" alt="Redis"></code>
-<code><img height="40" src="https://img.icons8.com/ios/50/000000/mongodb.png" alt="MongoDB"></code>
-<code><img height="40" src="https://img.icons8.com/ios/50/000000/firebase.png" alt="Firebase"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgres/postgres.png" alt="PostgresSQL"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png" alt="Redis"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="Firebase"></code>
 
 #### ☁️ **DevOps & Cloud**
-<code><img height="40" src="https://img.icons8.com/ios/50/000000/docker.png" alt="Docker"></code>
-<code><img height="40" src="https://img.icons8.com/ios/50/000000/github-actions.png" alt="GitHub Actions"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker"></code>
 
 <br/>
 
