@@ -1,4 +1,4 @@
-## Hey, I'm [🧪 Daniel!](https://your-website-url.com/about)
+## Hey, I'm [🧪 Daniel!](https://danielidoko-r3zt.vercel.app/about)
 
 👨🏿‍💻 **Web Developer | System Administrator | Cybersecurity Enthusiast**
 
@@ -27,7 +27,7 @@ I have built several Web Projects and written numerous technical articles for my
 I'm currently focused on building a career in System Administration and Cybersecurity.
 
 
-#### [🌐 Visit My Website](https://your-website-url.com)
+#### [🌐 Visit My Website](https://danielidoko-r3zt.vercel.app/)
 
 <br/>
 
