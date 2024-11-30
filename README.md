@@ -29,6 +29,8 @@ I'm currently focused on building a career in System Administration and Cybersec
 
 #### [🌐 Visit My Website](https://your-website-url.com)
 
+<br/>
+
 ### About Me:
 
 - 🛠 &nbsp; I’m currently working as a Freelancer
@@ -39,12 +41,15 @@ I'm currently focused on building a career in System Administration and Cybersec
 - 💼 &nbsp; Find my resume on [LinkedIn]()
 <!-- - 📝 &nbsp; Checkout my [Resume](https://github.com/heyOnuoha/heyOnuoha/blob/master/resume.pdf) -->
 
+<br/>
+
 ### Fun Facts About Me:
 
 - 🎵 &nbsp; I love AfroBeat music.
 - ⚽ &nbsp; I’m a big Arsenal fan!
 - 📖 &nbsp; I have a degree in Chemistry but followed my passion for programming.
 
+<br/>
 
 ### Languages and Tools:
 
@@ -72,9 +77,7 @@ I'm currently focused on building a career in System Administration and Cybersec
 <code><img height="40" src="https://img.icons8.com/ios/50/000000/docker.png" alt="Docker"></code>
 <code><img height="40" src="https://img.icons8.com/ios/50/000000/github-actions.png" alt="GitHub Actions"></code>
 
-<!--
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass"></code>
--->
+<br/>
 
 ### My GitHub Stats:
 
