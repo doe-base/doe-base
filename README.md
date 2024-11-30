@@ -54,7 +54,7 @@ I'm currently focused on building a career in System Administration and Cybersec
 ### Languages and Tools:
 
 #### 🌐 **Languages**
-<code><img height="40" src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript"></code>
 <code><img height="40" src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript"></code>
 <code><img height="40" src="https://img.icons8.com/color/48/000000/go.png" alt="Go"></code>
 <code><img height="40" src="https://img.icons8.com/color/48/000000/python.png" alt="Python"></code>
