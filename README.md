@@ -5,38 +5,38 @@
 Started as a Web Developer in 2019, and now I’m focused on building a career in System Administration and Cybersecurity. I enjoy diving into new technological concepts and sharing my knowledge through blogging. I'm also passionate about contributing to the open-source community. Every week, I choose a small tech concept to explore, study, and either write a blog about it or build a project to deepen my understanding. You can find all of these here on my profile.
 
 ---
-
 ## 🛠️ **Technologies & Tools I Work With**
 
 ### 🌐 **Languages**
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
-![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat-square)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white&style=flat-square)
+![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
+![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)
+![Go](https://img.icons8.com/color/48/000000/go.png)
+![Python](https://img.icons8.com/color/48/000000/python.png)
+![Bash](https://img.icons8.com/ios/50/000000/bash.png)
 
 ### ⚙️ **Frameworks & Libraries**
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat-square)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat-square)
+![React](https://img.icons8.com/ios/50/000000/react.png)
+![Node.js](https://img.icons8.com/ios/50/000000/nodejs.png)
+![Next.js](https://img.icons8.com/ios/50/000000/next.js.png)
+![Express.js](https://img.icons8.com/ios/50/000000/express.png)
 
 ### 🗄️ **Databases**
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=flat-square)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square)
+![PostgreSQL](https://img.icons8.com/ios/50/000000/postgresql.png)
+![MySQL](https://img.icons8.com/ios/50/000000/mysql.png)
+![Redis](https://img.icons8.com/ios/50/000000/redis.png)
+![MongoDB](https://img.icons8.com/ios/50/000000/mongodb.png)
+![Firebase](https://img.icons8.com/ios/50/000000/firebase.png)
 
 ### ☁️ **DevOps & Cloud**
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white&style=flat-square)
+![Docker](https://img.icons8.com/ios/50/000000/docker.png)
+![GitHub Actions](https://img.icons8.com/ios/50/000000/github-actions.png)
 
 ### 🔒 **Specialties**
 - Full-stack web applications  
 - Authentication (OAuth, JWT, Firebase)  
 - Web security and APIs  
-- Networking and caching  
+- Networking and caching
+  
 ---
 
 ## 🚀 **Projects I'm Proud Of**
