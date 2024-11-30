@@ -1,4 +1,4 @@
-# 🧪 Daniel Idoko
+# 🧪 Daniel Idokohttps://github.com/doe-base/doe-base/blob/main/README.md
 
 👨🏿‍💻 **Web Developer | System Administrator | Cybersecurity Enthusiast**   
 
@@ -60,15 +60,15 @@ Visit [danielidoko.com](https://danielidoko-r3zt.vercel.app/projects) for tutori
 ---
 
 ## 💬 **Let’s Connect!**
-- 💌 **Email:** danielidoko.dev@gmail.com  
-- 🌐 **Website:** [danielidoko.com](https://danielidoko.com)  
+- 💌 **Email:** info.idoko@gmail.com  
+- 🌐 **Website:** [danielidoko.com](https://danielidoko-r3zt.vercel.app/projects)  
 - 🐦 **Twitter:** [@DanielIdokoDev](https://twitter.com/DanielIdokoDev)  
-- 💼 **LinkedIn:** [Daniel Idoko](https://linkedin.com/in/danielidoko)  
+- 💼 **LinkedIn:** [Daniel Idoko](https://x.com/Daniel_Idoko_go)  
 
 ---
 
 ⭐️ **Fun Facts About Me:**  
-- 🎵 I love Afro music.  
+- 🎵 I love AfroBeat music.  
 - ⚽ I’m a big Arsenal fan!  
 - 📖 I have a degree in Chemistry but followed my passion for programming.
 
@@ -76,7 +76,7 @@ Visit [danielidoko.com](https://danielidoko-r3zt.vercel.app/projects) for tutori
 
 ## 🎯 **Goals**
 - Transition into **system administration** with expertise in **networking** and **cybersecurity**.  
-- Explore the intersection of **AI, networking, and automation** for career growth.  
+- Explore the intersection of **AI, networking, and automation** for career growth.
 
 ---
 "Sharing knowledge is my way of connecting with the world. Let's build something amazing together!"  
