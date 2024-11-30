@@ -1,4 +1,4 @@
-## Hey 👋, I'm [🧪 Daniel!](https://your-website-url.com/about)
+## Hey, I'm [🧪 Daniel!](https://your-website-url.com/about)
 
 👨🏿‍💻 **Web Developer | System Administrator | Cybersecurity Enthusiast**
 
@@ -13,6 +13,8 @@
 
 <br />
  -->
+
+ 
 ### Welcome to my profile! Let's build great things together!!!! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=heyOnuoha.heyOnuoha&style=flat-square&color=ffeb00)
 
 I'm a Freelancer, a Content Creator, and a Technical Writer in the Cybersecurity space.
