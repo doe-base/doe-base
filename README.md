@@ -1,4 +1,4 @@
-# 🧪 Daniel Idokohttps://github.com/doe-base/doe-base/blob/main/README.md
+# 🧪 Daniel Idoko
 
 👨🏿‍💻 **Web Developer | System Administrator | Cybersecurity Enthusiast**   
 
@@ -62,8 +62,8 @@ Visit [danielidoko.com](https://danielidoko-r3zt.vercel.app/projects) for tutori
 ## 💬 **Let’s Connect!**
 - 💌 **Email:** info.idoko@gmail.com  
 - 🌐 **Website:** [danielidoko.com](https://danielidoko-r3zt.vercel.app/projects)  
-- 🐦 **Twitter:** [@DanielIdokoDev](https://twitter.com/DanielIdokoDev)  
-- 💼 **LinkedIn:** [Daniel Idoko](https://x.com/Daniel_Idoko_go)  
+- 🐦 **Twitter:** [@DanielIdokoGo](https://x.com/Daniel_Idoko_go)
+- 💼 **LinkedIn:** [Daniel Idoko]()  
 
 ---
 
