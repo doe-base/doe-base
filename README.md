@@ -20,7 +20,7 @@
 
 I'm a Freelancer, a Content Creator, and a Technical Writer in the Cybersecurity space.
 
-I am self-taught and love discussing and writing about web development, system administration, and cybersecurity.
+I am self-taught and love discussing and writing about system administration and cybersecurity.
 
 I have built several Web Projects and written numerous technical articles for my blog and other brands in the sysadmin space.
 
