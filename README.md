@@ -1,6 +1,6 @@
 # 🕸 Daniel Idoko
 
-👨‍💻 **Web Developer | System Administrator | Cybersecurity Enthusiast**   
+👨🏿‍💻 **Web Developer | System Administrator | Cybersecurity Enthusiast**   
 
 💡 I enjoy diving into new technological concepts and sharing my knowledge through blogging. I'm equally passionate about contributing to the open-source community. Since starting my tech journey as a web developer in 2019, I've expanded my focus to system administration and cybersecurity.   
 
