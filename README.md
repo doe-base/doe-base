@@ -47,10 +47,10 @@ A three-part system:
 - **Main Bank App:** A React app showcasing a sleek UI and database-driven data display.
 
 ### 🕹️ **Memory Game**  
-A fun, interactive game built with vanilla JavaScript to test memory and focus. The latest version now features a multiplayer option, which I built using WebSockets.
+A fun, interactive game built with vanilla JavaScript to test memory and focus. The latest version now features a multiplayer option, which I built using WebSockets. [play it here](https://memory-game-v8iu.vercel.app)
 
 ### 📚 **Personal Blog & Website**  
-Visit [danielidoko.com](https://danielidoko.com) for tutorials, blogs, and mentorship programs for aspiring developers.  
+Visit [danielidoko.com](https://danielidoko-r3zt.vercel.app/projects) for tutorials, blogs, and mentorship programs for aspiring developers.  
 
 ---
 
