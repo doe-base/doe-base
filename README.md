@@ -8,9 +8,7 @@ Started as a Web Developer in 2019, and now I’m focused on building a career i
 ## 🛠️ **Technologies & Tools I Work With**
 
 ### 🌐 **Languages**
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-          
+![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
 ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)
 ![Go](https://img.icons8.com/color/48/000000/go.png)
 ![Python](https://img.icons8.com/color/48/000000/python.png)
