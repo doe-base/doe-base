@@ -3,7 +3,7 @@
 👨🏿‍💻 **Web Developer | System Administrator | Cybersecurity Enthusiast**
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)]()
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://x.com/Daniel_Idoko_go/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-15202B?style=flat-square&logo=X&logoColor=white)](https://x.com/Daniel_Idoko_go/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/daniel_idoko_go/)
 [![Instagram Badge](https://img.shields.io/badge/-Whatsapp-25D366?style=flat-square&logo=Whatsapp&logoColor=white)](https://wa.me/+2348125676676)
 <!-- [![Website](https://img.shields.io/badge/Visit_My_Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-website-url.com) --
