@@ -30,19 +30,11 @@ I'm currently focused on building a career in System Administration and Cybersec
 
 #### [🌐 Visit My Website](https://danielidoko-r3zt.vercel.app/)
 
-<br/>
 
-## About Me:
-
-- 🛠 &nbsp; I’m currently working as a Freelancer
-- 🚀 &nbsp; I’m currently writing content for anyone interested in learning Computer Networking
-<!-- - 📈 &nbsp; I am a Developer Relations Lead at [Swing](https://showwcase.com)
-- ✍️ &nbsp; I was Web3 Technical Writer at [Hashnode](https://web3.hashnode.com) and [Alchemy](https://alchemy.com) respectively -->
-- 📫 &nbsp; How to reach me on Twitter [@Daniel_Idoko_go](https://x.com/Daniel_Idoko_go)
-- 💼 &nbsp; Find my resume on [LinkedIn]()
-<!-- - 📝 &nbsp; Checkout my [Resume](https://github.com/heyOnuoha/heyOnuoha/blob/master/resume.pdf) -->
 
 <br/>
+
+
 
 ## Languages and Tools:
 
@@ -69,6 +61,10 @@ I'm currently focused on building a career in System Administration and Cybersec
 
 #### ☁️ **DevOps & Cloud**
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" alt="Docker"></code>
+
+
+
+
 
 <br/>
 
@@ -119,21 +115,6 @@ Here are some of my recent posts:
 |-------------|----------|----------|-----------|------------------|---------------|
 | [🤓 doe-base](https://github.com/doe-base/doe-base) | ![Stars](https://img.shields.io/github/stars/doe-base/doe-base?style=flat-square&labelColor=343b41&color=ffeb00) | ![Forks](https://img.shields.io/github/forks/doe-base/doe-base?style=flat-square&labelColor=343b41&color=ffeb00) | ![Issues](https://img.shields.io/github/issues/doe-base/doe-base?style=flat-square&color=ffeb00) | ![Pull Requests](https://img.shields.io/github/issues-pr/doe-base/doe-base?style=flat-square&color=ffeb00) | ![Language](https://img.shields.io/badge/markdown-100%25-blue?style=flat-square&color=ffeb00) |  
 
-
-
-
-
-<br/>
-
-
-
-
-
-## Fun Facts About Me:
-
-- 🎵 &nbsp; I love AfroBeat music.
-- ⚽ &nbsp; I’m a big Arsenal fan!
-- 📖 &nbsp; I have a degree in Chemistry but followed my passion for programming.
 
 #
 
