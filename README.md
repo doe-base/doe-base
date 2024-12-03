@@ -82,34 +82,18 @@ I'm currently focused on building a career in System Administration and Cybersec
 
 
 
-## 🌐 My Blog
+## Latest Posts
+Here are some of my recent posts:
+- **[Building a Memory Game in Vanilla JavaScript](https://danielidoko.dev/memory-game)**  
+  Learn how to create a fun and interactive memory game using vanilla JavaScript.
 
-Here are some highlights from my blog:
+- **[Getting Started with Go: A Beginner's Guide](https://danielidoko.dev/go-beginner-guide)**  
+  A concise introduction to Go for new developers.
 
-<div align="center">
-  
-### 📝 Blog Posts
+- **[Optimizing Your React App with Hooks](https://danielidoko.dev/react-hooks)**  
+  Explore how to use hooks effectively to improve your React apps.
 
-<a href="https://danielidoko.dev/memory-game" target="_blank">
-  <img src="https://via.placeholder.com/300x150?text=Memory+Game" alt="Memory Game" width="300" style="border-radius: 8px; margin: 10px;">
-</a>
-<p><b>[Building a Memory Game in Vanilla JavaScript](https://danielidoko.dev/memory-game)</b></p>
-<p>Learn how to create a fun and interactive memory game using vanilla JavaScript.</p>
-
-<a href="https://danielidoko.dev/go-beginner-guide" target="_blank">
-  <img src="https://via.placeholder.com/300x150?text=Go+Beginner+Guide" alt="Go Beginner Guide" width="300" style="border-radius: 8px; margin: 10px;">
-</a>
-<p><b>[Getting Started with Go: A Beginner's Guide](https://danielidoko.dev/go-beginner-guide)</b></p>
-<p>A concise introduction to Go for new developers.</p>
-
-<a href="https://danielidoko.dev/react-hooks" target="_blank">
-  <img src="https://via.placeholder.com/300x150?text=React+Hooks" alt="React Hooks" width="300" style="border-radius: 8px; margin: 10px;">
-</a>
-<p><b>[Optimizing Your React App with Hooks](https://danielidoko.dev/react-hooks)</b></p>
-<p>Explore how to use hooks effectively to improve your React apps.</p>
-
-</div>
-
+📚 [View all posts](https://danielidoko.dev/blog)
 
 
 
