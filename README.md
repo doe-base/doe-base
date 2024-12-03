@@ -94,54 +94,38 @@ Here are some of my recent posts:
 
 <br/>
 
+
+
+
+
 ## My GitHub Stats:
 
-<details>	
-  <summary><b>⚡ Github Stats</b></summary>
+### ⚡ **GitHub Stats**  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=doe-base&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />  
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doe-base&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8" />  
 
-  <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=doe-base&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doe-base&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</details>
+---
 
-<details>	
-  <summary><b>☄️ Github Streaks</b></summary>
+### ☄️ **GitHub Streaks**  
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=doe-base&hide_border=true" />  
 
-  <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=doe-base&hide_border=true" />
-</details>
+---
 
-<details>
-  <summary><b>🚀 Open Source Projects</b></summary>
+### 🚀 **Open Source Projects**  
 
-  <br />
-  <table>
-    <thead align="center">
-      <tr border: none;>
-        <td><b>💻 Projects</b></td>
-        <td><b>🌟 Stars</b></td>
-        <td><b>🍴 Forks</b></td>
-        <td><b>🐛 Issues</b></td>
-        <td><b>🔔 Pull Requests</b></td>
-        <td><b>👨‍💻 Language</b></td>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-	<td><a href="https://github.com/doe-base/doe-base"><b>🤓 doe-base</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/doe-base/doe-base?style=flat-square&labelColor=343b41&color=ffeb00"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/doe-base/doe-base?style=flat-square&labelColor=343b41&color=ffeb00"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/doe-base/doe-base?style=flat-square&color=ffeb00"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/doe-base/doe-base?style=flat-square&color=ffeb00"/></td>
-        <td><img alt="Language" src="https://img.shields.io/badge/markdown-100%25-blue?style=flat-square&color=ffeb00"/></td> 
-      </tr>
-    </tbody>
-  </table>
-  <br />
-</details>
+| 💻 Projects | 🌟 Stars | 🍴 Forks | 🐛 Issues | 🔔 Pull Requests | 👨‍💻 Language |
+|-------------|----------|----------|-----------|------------------|---------------|
+| [🤓 doe-base](https://github.com/doe-base/doe-base) | ![Stars](https://img.shields.io/github/stars/doe-base/doe-base?style=flat-square&labelColor=343b41&color=ffeb00) | ![Forks](https://img.shields.io/github/forks/doe-base/doe-base?style=flat-square&labelColor=343b41&color=ffeb00) | ![Issues](https://img.shields.io/github/issues/doe-base/doe-base?style=flat-square&color=ffeb00) | ![Pull Requests](https://img.shields.io/github/issues-pr/doe-base/doe-base?style=flat-square&color=ffeb00) | ![Language](https://img.shields.io/badge/markdown-100%25-blue?style=flat-square&color=ffeb00) |  
+
+
+
 
 
 <br/>
+
+
+
+
 
 ## Fun Facts About Me:
 
