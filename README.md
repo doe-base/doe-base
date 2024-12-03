@@ -85,16 +85,19 @@ I'm currently focused on building a career in System Administration and Cybersec
 
 ## Latest Posts
 Here are some of my recent posts:
-- **[Building a Memory Game in Vanilla JavaScript](https://danielidoko.dev/memory-game)**  
-  Learn how to create a fun and interactive memory game using vanilla JavaScript.
+- **[TCP/IP Networking Model](https://danielidoko-r3zt.vercel.app/blog/66e9de543c14661b52cb7afb)**  
+  ![TCP/IP Networking Model](https://blog.equinix.com/wp-content/uploads/2023/09/AdobeStock_600358251-1024x574.jpeg)  
+  Let’s dive into the fundamental layers and protocols that underpin modern computer networking: the TCP/IP network layers.
 
-- **[Getting Started with Go: A Beginner's Guide](https://danielidoko.dev/go-beginner-guide)**  
-  A concise introduction to Go for new developers.
+- **[Decoding IP Addresses: Mastering Subnetting and CIDR Notation](https://danielidoko-r3zt.vercel.app/blog/66e9de543c14661b52cb7afc)**  
+  ![Decoding IP Addresses](https://solidwp.com/wp-content/uploads/2022/07/What-is-an-IP-Address-1024x537.png)  
+  I will explain in a simple way what sub-networks or subnetting means and how to calculate the CIDR notation.
 
-- **[Optimizing Your React App with Hooks](https://danielidoko.dev/react-hooks)**  
-  Explore how to use hooks effectively to improve your React apps.
+- **[CRUD Operations With MongoDB Golang Driver](https://danielidoko-r3zt.vercel.app/blog/66e9de443c14661b52cb7afa)**  
+  ![CRUD Operations](https://www.zdnet.com/a/img/resize/b20b27dc9865387a43765c62cf143e568e253844/2020/07/01/15682b00-63d3-4e6e-979e-3fcd983ba16f/mongodb.png?auto=webp&width=1280)  
+  Covers how to perform various API CRUD operations on a MongoDB database using the MongoDB Golang driver.
 
-📚 [View all posts](https://danielidoko.dev/blog)
+📚 [View all posts](https://danielidoko-r3zt.vercel.app)
 
 
 
