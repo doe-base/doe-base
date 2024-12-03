@@ -80,20 +80,7 @@ I'm currently focused on building a career in System Administration and Cybersec
 <br/>
 
 
-## 🌐 My Blog
-I write about topics like:
-- Web Development (JavaScript, TypeScript, React, Next.js, Go, and more)
-- Software Engineering Best Practices
-- System Administration
-- Cybersecurity
-- Open Source Contributions
-- Personal Projects
-
-🔗 Visit my blog: [danielidoko.dev](https://danielidoko.dev)
-
----
-
-## Latest Posts
+## Latest Blog Posts
 Here are some of my recent posts:
 - **[Building a Memory Game in Vanilla JavaScript](https://danielidoko.dev/memory-game)**  
   Learn how to create a fun and interactive memory game using vanilla JavaScript.
@@ -106,13 +93,6 @@ Here are some of my recent posts:
 
 📚 [View all posts](https://danielidoko.dev/blog)
 
----
-
-## 🤝 Connect with Me
-- Twitter: [@DanielIdoko](https://twitter.com/DanielIdoko)
-- LinkedIn: [Daniel Idoko](https://linkedin.com/in/DanielIdoko)
-
-Feel free to explore my repositories, suggest ideas, or reach out for collaboration. 🚀
 
 <br/>
 
