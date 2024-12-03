@@ -75,7 +75,7 @@ I'm currently focused on building a career in System Administration and Cybersec
 
 
 
-## Latest Posts
+## Latest from my Blog
 Here are some of my recent posts:
 - **[TCP/IP Networking Model](https://danielidoko-r3zt.vercel.app/blog/66e9de543c14661b52cb7afb)**  
   Lets dive into the fundamental layers and protocols that underpin modern computer networking, the TCP/IP network layers.
