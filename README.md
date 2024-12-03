@@ -31,7 +31,7 @@ I'm currently focused on building a career in System Administration and Cybersec
 
 <br/>
 
-### About Me:
+## About Me:
 
 - 🛠 &nbsp; I’m currently working as a Freelancer
 - 🚀 &nbsp; I’m currently writing content for anyone interested in learning Computer Networking
@@ -43,7 +43,7 @@ I'm currently focused on building a career in System Administration and Cybersec
 
 <br/>
 
-### Fun Facts About Me:
+## Fun Facts About Me:
 
 - 🎵 &nbsp; I love AfroBeat music.
 - ⚽ &nbsp; I’m a big Arsenal fan!
@@ -51,7 +51,7 @@ I'm currently focused on building a career in System Administration and Cybersec
 
 <br/>
 
-### Languages and Tools:
+## Languages and Tools:
 
 #### 🌐 **Languages**
           
@@ -96,7 +96,7 @@ Here are some of my recent posts:
 
 <br/>
 
-### My GitHub Stats:
+## My GitHub Stats:
 
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
