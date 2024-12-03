@@ -44,14 +44,6 @@ I'm currently focused on building a career in System Administration and Cybersec
 
 <br/>
 
-## Fun Facts About Me:
-
-- 🎵 &nbsp; I love AfroBeat music.
-- ⚽ &nbsp; I’m a big Arsenal fan!
-- 📖 &nbsp; I have a degree in Chemistry but followed my passion for programming.
-
-<br/>
-
 ## Languages and Tools:
 
 #### 🌐 **Languages**
@@ -147,6 +139,15 @@ Here are some of my recent posts:
   </table>
   <br />
 </details>
+
+
+<br/>
+
+## Fun Facts About Me:
+
+- 🎵 &nbsp; I love AfroBeat music.
+- ⚽ &nbsp; I’m a big Arsenal fan!
+- 📖 &nbsp; I have a degree in Chemistry but followed my passion for programming.
 
 #
 
