@@ -1,6 +1,6 @@
-# [🧪 Daniel !!!](https://danielidoko-r3zt.vercel.app/about)
+# [🧪 Daniel Idoko !!!](https://danielidoko-r3zt.vercel.app/about)
 
-👨🏿‍💻 **Web Developer | System Administrator | Cybersecurity Enthusiast**
+👨🏿‍💻 **Full Stack Developer**
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)]()
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-15202B?style=flat-square&logo=X&logoColor=white)](https://x.com/Daniel_Idoko_go/)
@@ -19,13 +19,15 @@
 
 <br/>
 
-I'm a Freelancer, a Content Creator, and a Technical Writer in the Cybersecurity space.
+Client: React, Nest, Redux, MaterialUI, TailwindCSS
 
-I am self-taught and love discussing and writing about system administration and cybersecurity.
+Server: Nodejs, Express, NestJs, Go
 
-I have built several Web Projects and written numerous technical articles for my blog and other brands in the sysadmin space.
+Database: MySQL, PostgreSQL  MongoDB, Firebase
 
-I'm currently focused on building a career in System Administration and Cybersecurity.
+Scripting: Python, Bash
+
+Mobile: React Native
 
 
 #### [🌐 Visit My Website](https://danielidoko-r3zt.vercel.app/)
@@ -36,7 +38,7 @@ I'm currently focused on building a career in System Administration and Cybersec
 
 
 
-## Languages and Tools:
+<!--## Languages and Tools:
 
 #### 🌐 **Languages**
           
@@ -66,7 +68,7 @@ I'm currently focused on building a career in System Administration and Cybersec
 
 
 
-<br/>
+<br/> -->
 
 
 
