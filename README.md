@@ -19,7 +19,7 @@
 
 <br/>
 
-**Client**:    React, Nextjs, Redux, MaterialUI, TailwindCSS
+**Client**: **   **   React, Nextjs, Redux, MaterialUI, TailwindCSS
 
 **Server**:    Nodejs, Express, NestJs, Go
 
