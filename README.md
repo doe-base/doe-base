@@ -19,15 +19,15 @@
 
 <br/>
 
-**Client**: <small>React</small>, Nextjs, Redux, MaterialUI, TailwindCSS
+**Client**:    React, Nextjs, Redux, MaterialUI, TailwindCSS
 
-**Server**: Nodejs, Express, NestJs, Go
+**Server**:    Nodejs, Express, NestJs, Go
 
-**Database**: MySQL, PostgreSQL  MongoDB, Firebase
+**Database**:    MySQL, PostgreSQL  MongoDB, Firebase
 
-**Scripting**: Python, Bash
+**Scripting**:    Python, Bash
 
-**Mobile**: React Native
+**Mobile**:    React Native
 
 
 #### [🌐 Visit My Website](https://danielidoko-r3zt.vercel.app/)
