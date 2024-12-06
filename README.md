@@ -21,13 +21,13 @@
 
 **Client**: &nbsp;&nbsp; React, Nextjs, Redux, MaterialUI, TailwindCSS
 
-**Server**:    Nodejs, Express, NestJs, Go
+**Server**: &nbsp;&nbsp; Nodejs, Express, NestJs, Go
 
-**Database**:    MySQL, PostgreSQL  MongoDB, Firebase
+**Database**: &nbsp;&nbsp; MySQL, PostgreSQL  MongoDB, Firebase
 
-**Scripting**:    Python, Bash
+**Scripting**: &nbsp;&nbsp; Python, Bash
 
-**Mobile**:    React Native
+**Mobile**: &nbsp;&nbsp; React Native
 
 
 #### [🌐 Visit My Website](https://danielidoko-r3zt.vercel.app/)
