@@ -19,7 +19,7 @@
 
 <br/>
 
-**Client**: React, Nextjs, Redux, MaterialUI, TailwindCSS
+**Client**: <span style="font-size: 0.85rem;">React</span>, Nextjs, Redux, MaterialUI, TailwindCSS
 
 **Server**: Nodejs, Express, NestJs, Go
 
