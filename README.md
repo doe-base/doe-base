@@ -122,6 +122,6 @@ Here are some of my recent posts:
 
 <div align="center">
 
-### Let's build great things together 
+### Let's build ideas together
 
 </div>
