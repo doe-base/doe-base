@@ -118,7 +118,6 @@ Here are some of my recent posts:
 | [🤓 doe-base](https://github.com/doe-base/doe-base) | ![Stars](https://img.shields.io/github/stars/doe-base/doe-base?style=flat-square&labelColor=343b41&color=ffeb00) | ![Forks](https://img.shields.io/github/forks/doe-base/doe-base?style=flat-square&labelColor=343b41&color=ffeb00) | ![Issues](https://img.shields.io/github/issues/doe-base/doe-base?style=flat-square&color=ffeb00) | ![Pull Requests](https://img.shields.io/github/issues-pr/doe-base/doe-base?style=flat-square&color=ffeb00) | ![Language](https://img.shields.io/badge/markdown-100%25-blue?style=flat-square&color=ffeb00) |  -->
 
 
-#
 
 <div align="center">
 
