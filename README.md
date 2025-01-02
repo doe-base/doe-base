@@ -1,4 +1,4 @@
-# [🧪 Daniel Idoko !!!](https://danielidoko-r3zt.vercel.app/about)
+# [🧪 Daniel Idoko !!!](https://danielidoko.vercel.app/about)
 
 👨🏿‍💻 **Full Stack Developer**
 
@@ -30,7 +30,7 @@
 **Mobile**: &nbsp;&nbsp; React Native
 
 
-#### [🌐 Visit My Website](https://danielidoko-r3zt.vercel.app/)
+#### [🌐 Visit My Website](https://danielidoko.vercel.app/)
 
 
 
@@ -75,16 +75,16 @@
 
 ## Latest from my Blog
 Here are some of my recent posts:
-- **[TCP/IP Networking Model](https://danielidoko-r3zt.vercel.app/blog/66e9de543c14661b52cb7afb)**  
+- **[TCP/IP Networking Model](https://danielidoko.vercel.app/blog/66e9de543c14661b52cb7afb)**  
   Lets dive into the fundamental layers and protocols that underpin modern computer networking, the TCP/IP network layers.
   
-- **[Decoding IP Addresses: Mastering Subnetting and CIDR Notation](https://danielidoko-r3zt.vercel.app/blog/66e9de543c14661b52cb7afc)**  
+- **[Decoding IP Addresses: Mastering Subnetting and CIDR Notation](https://danielidoko.vercel.app/blog/66e9de543c14661b52cb7afc)**  
   I will explain in a simple way what sub-networks or subnetting means and how to calculate the CIDR notation.
   
-- **[CRUD Operations With Mongodb Golang Driver](https://danielidoko-r3zt.vercel.app/blog/66e9de443c14661b52cb7afa)**  
+- **[CRUD Operations With Mongodb Golang Driver](https://danielidoko.vercel.app/blog/66e9de443c14661b52cb7afa)**  
   Covers how to perform various API - CRUD operations on a mongodb database using the mongodb golang driver.
 
-📚 [View all posts](https://danielidoko-r3zt.vercel.app)
+📚 [View all posts](https://danielidoko.vercel.app)
 
 
 
