@@ -19,15 +19,18 @@
 
 <br/>
 
-**Client**: &nbsp;&nbsp; React, Nextjs, Redux, MaterialUI, TailwindCSS
+✅ **Build Secure & Scalable Web Applications**  
+I develop fast, SEO-friendly, secure, full-stack web applications that help businesses grow and operate efficiently.  
+**Tech:** React, Next.js, Golang, Node.js, Firebase, MySQL, PostgreSQL, MongoDB  
 
-**Server**: &nbsp;&nbsp; Nodejs, Express, NestJs, Go
+✅ **Optimize & Secure IT Infrastructure**  
+I design and manage business network topologies and infrastructures. I prioritize security, reliability, and high performance.  
+**Tech:** Linux, Windows, Firewalls, VPNs, Bash, Automation, Security best practices  
 
-**Database**: &nbsp;&nbsp; MySQL, PostgreSQL  MongoDB, Firebase
+✅ **Automate & Scale with Cloud Technologies**  
+I help businesses migrate to the cloud, set up CI/CD pipelines, and automate workflows for efficiency.  
+**Tech:** AWS, Google Cloud, Docker, Kubernetes, Terraform, CI/CD, Python  
 
-**Scripting**: &nbsp;&nbsp; Python, Bash
-
-**Mobile**: &nbsp;&nbsp; React Native
 
 
 #### [🌐 Visit My Website](https://danielidoko.vercel.app/)
