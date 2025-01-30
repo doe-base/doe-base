@@ -15,7 +15,7 @@
  -->
 <br/>
  
-## Welcome to my profile! Let's create something amazing together! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=heyOnuoha.heyOnuoha&style=flat-square&color=ffeb00)
+## Welcome to my profile! Here are some services i render! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=heyOnuoha.heyOnuoha&style=flat-square&color=ffeb00)
 
 <br/>
 
