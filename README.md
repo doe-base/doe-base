@@ -1,6 +1,6 @@
 # [🧪 Daniel Idoko !!!](https://danielidoko.vercel.app/about)
 
-👨🏿‍💻 **Full Stack Developer**
+👨🏿‍💻 **Solutions Architect**
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)]()
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-15202B?style=flat-square&logo=X&logoColor=white)](https://x.com/Daniel_Idoko_go/)
